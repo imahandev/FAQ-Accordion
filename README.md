@@ -1,4 +1,8 @@
 # FAQ Accordion (HTML + CSS)
+![Demo](img/demo1.png)
+![Demo](img/demo2.png)
+
+
 
 یک کامپوننت ساده و سبک برای بخش **سوالات متداول (FAQ)**  
 پیاده‌سازی شده فقط با **HTML و CSS**، بدون جاوااسکریپت.
